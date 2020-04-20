@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ProwlerCisc0/merntasks-frontend/static/css/main.3b4d3ab3.chunk.css",
+    "main.js": "/ProwlerCisc0/merntasks-frontend/static/js/main.e3722c09.chunk.js",
+    "main.js.map": "/ProwlerCisc0/merntasks-frontend/static/js/main.e3722c09.chunk.js.map",
+    "runtime-main.js": "/ProwlerCisc0/merntasks-frontend/static/js/runtime-main.0f2d6ac9.js",
+    "runtime-main.js.map": "/ProwlerCisc0/merntasks-frontend/static/js/runtime-main.0f2d6ac9.js.map",
+    "static/js/2.2e2795ef.chunk.js": "/ProwlerCisc0/merntasks-frontend/static/js/2.2e2795ef.chunk.js",
+    "static/js/2.2e2795ef.chunk.js.map": "/ProwlerCisc0/merntasks-frontend/static/js/2.2e2795ef.chunk.js.map",
+    "index.html": "/ProwlerCisc0/merntasks-frontend/index.html",
+    "precache-manifest.db540ed8ad8b9bce2690b0eedafc6b62.js": "/ProwlerCisc0/merntasks-frontend/precache-manifest.db540ed8ad8b9bce2690b0eedafc6b62.js",
+    "service-worker.js": "/ProwlerCisc0/merntasks-frontend/service-worker.js",
+    "static/css/main.3b4d3ab3.chunk.css.map": "/ProwlerCisc0/merntasks-frontend/static/css/main.3b4d3ab3.chunk.css.map",
+    "static/js/2.2e2795ef.chunk.js.LICENSE.txt": "/ProwlerCisc0/merntasks-frontend/static/js/2.2e2795ef.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0f2d6ac9.js",
+    "static/js/2.2e2795ef.chunk.js",
+    "static/css/main.3b4d3ab3.chunk.css",
+    "static/js/main.e3722c09.chunk.js"
+  ]
+}
