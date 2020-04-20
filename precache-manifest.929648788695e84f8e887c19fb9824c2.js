@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6bb5d6780e43f64fbbf8f7af0fcefc9b",
+    "revision": "3a7bfa15a56955f40fb3a43877f6bac1",
     "url": "/merntasks-frontend/index.html"
   },
   {
-    "revision": "2be9ef984e57efa88a7e",
+    "revision": "d25564b74d78a1411f41",
     "url": "/merntasks-frontend/static/css/main.3b4d3ab3.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/merntasks-frontend/static/js/2.caef811c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2be9ef984e57efa88a7e",
-    "url": "/merntasks-frontend/static/js/main.1a4e3193.chunk.js"
+    "revision": "d25564b74d78a1411f41",
+    "url": "/merntasks-frontend/static/js/main.81ff6022.chunk.js"
   },
   {
     "revision": "bf71e4be80ff4f4a5df3",
