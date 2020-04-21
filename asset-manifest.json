@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/merntasks-frontend/static/css/main.3b4d3ab3.chunk.css",
-    "main.js": "/merntasks-frontend/static/js/main.81ff6022.chunk.js",
-    "main.js.map": "/merntasks-frontend/static/js/main.81ff6022.chunk.js.map",
+    "main.js": "/merntasks-frontend/static/js/main.9b10df36.chunk.js",
+    "main.js.map": "/merntasks-frontend/static/js/main.9b10df36.chunk.js.map",
     "runtime-main.js": "/merntasks-frontend/static/js/runtime-main.f11e5adf.js",
     "runtime-main.js.map": "/merntasks-frontend/static/js/runtime-main.f11e5adf.js.map",
     "static/js/2.caef811c.chunk.js": "/merntasks-frontend/static/js/2.caef811c.chunk.js",
     "static/js/2.caef811c.chunk.js.map": "/merntasks-frontend/static/js/2.caef811c.chunk.js.map",
     "index.html": "/merntasks-frontend/index.html",
-    "precache-manifest.929648788695e84f8e887c19fb9824c2.js": "/merntasks-frontend/precache-manifest.929648788695e84f8e887c19fb9824c2.js",
+    "precache-manifest.59f3f4df51525a81cb9e00060ac4835d.js": "/merntasks-frontend/precache-manifest.59f3f4df51525a81cb9e00060ac4835d.js",
     "service-worker.js": "/merntasks-frontend/service-worker.js",
     "static/css/main.3b4d3ab3.chunk.css.map": "/merntasks-frontend/static/css/main.3b4d3ab3.chunk.css.map",
     "static/js/2.caef811c.chunk.js.LICENSE.txt": "/merntasks-frontend/static/js/2.caef811c.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.f11e5adf.js",
     "static/js/2.caef811c.chunk.js",
     "static/css/main.3b4d3ab3.chunk.css",
-    "static/js/main.81ff6022.chunk.js"
+    "static/js/main.9b10df36.chunk.js"
   ]
 }
