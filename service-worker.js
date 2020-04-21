@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/merntasks-frontend/precache-manifest.02c68a60a9a8a42782cdabb1fad5bf89.js"
+  "/merntasks-frontend/precache-manifest.929648788695e84f8e887c19fb9824c2.js"
 );
 
 self.addEventListener('message', (event) => {
