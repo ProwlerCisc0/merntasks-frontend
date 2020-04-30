@@ -1,5 +1,5 @@
 import React from 'react';
-import {BrowserRouter as Router, Switch, Route, HashRouter} from 'react-router-dom';
+import {BrowserRouter as Router, Switch, Route,} from 'react-router-dom';
 
 //Components
 import Login from './components/auth/Login';
@@ -28,11 +28,11 @@ function App() {
             <AuthState>
               <Router>
                 <Switch>
-                <HashRouter basename={window.location.pathname || ''}>
+                
                   <Route exact path="/" component= {Login}></Route>
                   <Route exact path="/register" component= {Register}></Route>
                   <RutaPrivada exact path="/proyectos" component= {Proyectos}></RutaPrivada>
-                </HashRouter>
+          
                 </Switch>
               </Router>
             </AuthState>
